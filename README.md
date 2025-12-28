@@ -27,4 +27,3 @@ This project uses **Cubit** for state management to:
 - Keep the UI clean and reactive
 
 
->>>>>>> 8cc4ce9d3830b8985ad6c5e55ff4f95c34ac0948
